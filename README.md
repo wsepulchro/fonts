@@ -1,5 +1,5 @@
 # fonts
-Minhas Fonst preferidas, obtidas no gh do terminal root
+Minhas Fonts preferidas, obtidas no gh do terminal root
 
 [github/terroo](https://www.github.com/terroo/fonts)
 
