@@ -1,5 +1,5 @@
 ## fonts ##
-Minhas Fonts preferidas, obtidas no gh do terminal root
+Minhas Fonts preferidas!
 
 
 
